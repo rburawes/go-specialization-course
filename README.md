@@ -15,10 +15,10 @@ Coursera - Programming with Google Go Specialization
 
 ### Functions, Methods, and Interfaces in Go
 
-* [hello.go](golang-functions-methods-interfaces/bubblesort.go)
-* [trunc.go](golang-functions-methods-interfaces/displacement.go)
-* [findian.go](golang-functions-methods-interfaces/animals.go)
-* [makejson.go](golang-functions-methods-interfaces/interfaces.go)
+* [bubblesort.go](golang-functions-methods-interfaces/bubblesort.go)
+* [displacement.go](golang-functions-methods-interfaces/displacement.go)
+* [animals.go](golang-functions-methods-interfaces/animals.go)
+* [interfaces.go](golang-functions-methods-interfaces/interfaces.go)
 
 #### Certificate
 
