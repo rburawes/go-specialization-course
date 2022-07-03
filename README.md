@@ -1,6 +1,7 @@
 # Golang Course
 Coursera - Programming with Google Go Specialization
 
+![Certificate](certificates/Coursera%20SE7LX3ERMEZH.png)
 ### Getting Started with Go
 
 * [hello.go](getting-started-with-go/hello.go)
@@ -28,3 +29,8 @@ Coursera - Programming with Google Go Specialization
 
 * [Moore's Law](concurrency-in-go/Moore's%20Law.pdf)
 * [racecondition.go](concurrency-in-go/racecondition.go)
+* [diningphilosophers.go](concurrency-in-go/diningphilosophers.go)
+
+#### Certificate
+
+![Certificate](certificates/Coursera%20Z3ZN2FP6WE9G.png)
